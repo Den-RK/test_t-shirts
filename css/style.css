@@ -296,6 +296,8 @@ padding: 10px 30px;
 
  }
 
+
+
  .collection__item:before {
    content:"";
   display: block;
@@ -305,6 +307,7 @@ padding: 10px 30px;
   top: -17%;
   left: -18%;
   background: center center / contain no-repeat;
+
  }
 
  .collection__item--img-man:before   {
@@ -316,7 +319,6 @@ padding: 10px 30px;
    top:-31%;
    width: 80%;
    left: -25%;
-
  }
 
  .collection {
